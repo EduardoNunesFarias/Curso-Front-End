@@ -1,3 +1,5 @@
+#Curso Front-End
+### EBAC
 # Git
 ## conceitos versionamento
  -histórico
@@ -26,6 +28,8 @@
  ## comits
  Informação de Alteração
  - Após testado todo seu código
+ - git add *
+ - git commit -m "mensagem"
 
  ## Gitflow
  fluxo do Git
