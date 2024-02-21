@@ -23,9 +23,13 @@
  
 
 
- ## comits
+ ## commits
  Informação de Alteração
- - Após testado todo seu código
+ - Após testado todo seu código 
+   git add *
+   git commit -m "mensagem"
+   git push (enviar auterações para o repositório)
+
 
  ## Gitflow
  fluxo do Git
