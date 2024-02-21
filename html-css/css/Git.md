@@ -1,3 +1,4 @@
+
 # Git
 ## conceitos versionamento
  -histórico
@@ -18,9 +19,7 @@
  mec (brew): brew install git 
  ## Criar conta no Github
 
- ## Clonar o projeto
- git clone https://github.com/EduardoNunesFarias/Curso-Front-End.git
- 
+ ## Clonar o projeto 
 
 
  ## comits
