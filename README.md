@@ -26,18 +26,11 @@
 
 
  ## commits
- Informação de Alteração
-<<<<<<< HEAD
  - Após testado todo seu código 
    git add *
    git commit -m "mensagem"
    git push (enviar auterações para o repositório)
 
-=======
- - Após testado todo seu código
- - git add *
- - git commit -m "mensagem"
->>>>>>> f0343ff3839d4f1c0cbf9cb058eae39bb3a956c3
 
  ## Gitflow
  fluxo do Git
