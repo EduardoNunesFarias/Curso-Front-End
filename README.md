@@ -31,7 +31,9 @@
  - Após testado todo seu código 
    git add *
    git commit -m "mensagem"
-   git push (enviar auterações para o repositório)
+   git push (enviar auterações para o repositório Github)
+   git pull (puxar/ trazer auterações do Github para sua maquina)
+
 
 =======
  - Após testado todo seu código
@@ -41,3 +43,11 @@
 
  ## Gitflow
  fluxo do Git
+ 
+ ### Branchs
+ São ramificações /versões palarelas
+ maim / master(vai para produção ,Quando o projeto e publicado)
+ develop
+ DoD Definition of Done : Critério de aceite
+
+ versionamento 1.0.0
