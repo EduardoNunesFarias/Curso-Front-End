@@ -46,8 +46,12 @@
  
  ### Branchs
  São ramificações /versões palarelas
- maim / master(vai para produção ,Quando o projeto e publicado)
+ main / master(vai para produção ,Quando o projeto e publicado)
  develop
  DoD Definition of Done : Critério de aceite
+ git checkout -b dev (criar uma brench)
+ git checkout master ( mudar de brench)
 
  versionamento 1.0.0
+ ### Merge
+ Mescla de branchs
