@@ -48,3 +48,14 @@
  versionamento 1.0.0
  ### Merge
  Mescla de branchs
+ você pode precisar resolver conflitos manualmente
+ git merge main
+
+ ### pull requests
+ mescla branchs no repositório
+ permite o code review
+ o repositorio resolve conflito automaticamente
+ ### configurar o Gitflow
+ git flow init
+ git flow feature start (nome-da-feature)
+
