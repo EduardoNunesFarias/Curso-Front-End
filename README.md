@@ -29,8 +29,22 @@
  - Após testado todo seu código 
    git add *
    git commit -m "mensagem"
-   git push (enviar auterações para o repositório)
+   git push (enviar auterações para o repositório Github)
+   git pull (puxar/ trazer auterações do Github para sua maquina)
+
 
 
  ## Gitflow
  fluxo do Git
+ 
+ ### Branchs
+ São ramificações /versões palarelas
+ main / master(vai para produção ,Quando o projeto e publicado)
+ develop
+ DoD Definition of Done : Critério de aceite
+ git checkout -b dev (criar uma brench)
+ git checkout master ( mudar de brench)
+
+ versionamento 1.0.0
+ ### Merge
+ Mescla de branchs
